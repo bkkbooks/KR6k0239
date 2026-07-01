@@ -1,0 +1,208 @@
+canonical_identifier: bkk:krp/KR6k0239/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0239/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 禮佛儀式
+  identifiers:
+    krp: KR6k0239
+    cbeta: X74n1492
+    cbeta_old_id: X74n1492
+    authorityid: CA0002028
+    json_key: X1492
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1492.xml
+    old_id: X74n1492
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0239_000-X.yaml, hash: 'sha256:38f5c80d50ec8948c49d43c234cd13e4c3f31127324e3b413bd8d92388820127'}
+  - {seq: 1, filename: KR6k0239_001-X.yaml, hash: 'sha256:a81a8f41917281872489fa6f2228fb6d992447d3b457f7a3188f83632919159a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0239_000-X.markers.yaml, hash: 'sha256:a2847addcb932f337fbedb433a83411d83280c74a912658512d4568d950e343a'}
+  - {seq: 1, role: markers, filename: assets/KR6k0239_001-X.markers.yaml, hash: 'sha256:8b925400fa97a581357f040e7e40af51ed4b810e413eab5e5dfb7c0b08586973'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 4289
+  label: 禮佛儀式或晝夜六時或日三時或晨昏二時
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-2
+    span:
+    - body
+    - 201
+    - 201
+  label: 普禮三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-3
+    span:
+    - body
+    - 748
+    - 748
+  label: 禮釋迦世尊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-4
+    span:
+    - body
+    - 918
+    - 918
+  label: 禮彌陀佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-5
+    span:
+    - body
+    - 1061
+    - 1061
+  label: 禮彌勒菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-6
+    span:
+    - body
+    - 1226
+    - 1226
+  label: 禮文殊菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-7
+    span:
+    - body
+    - 1367
+    - 1367
+  label: 禮普賢菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-8
+    span:
+    - body
+    - 1487
+    - 1487
+  label: 禮觀自在菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-9
+    span:
+    - body
+    - 1789
+    - 1789
+  label: 禮大勢至菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-10
+    span:
+    - body
+    - 1931
+    - 1931
+  label: 禮地藏菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-11
+    span:
+    - body
+    - 2087
+    - 2087
+  label: 禮虗空藏菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-12
+    span:
+    - body
+    - 2189
+    - 2189
+  label: 禮迦葉尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-13
+    span:
+    - body
+    - 2270
+    - 2270
+  label: 禮優波離尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-14
+    span:
+    - body
+    - 2342
+    - 2342
+  label: 禮阿難尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-15
+    span:
+    - body
+    - 2436
+    - 2436
+  label: 五悔法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-16
+    span:
+    - body
+    - 3096
+    - 3096
+  label: 附寶積經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0239_X_001-mulu-17
+    span:
+    - body
+    - 3884
+    - 3884
+  label: 音釋
+  type: mulu
+  level: 1
+hash: sha256:76fcb9b7197c00c2e4869c530f6687bc53ba7b19c3dd10d4e578372817d9c2ac

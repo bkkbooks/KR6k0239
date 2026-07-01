@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0239/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 禮佛儀式
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1492.xml
+    old_id: X74n1492
+hash: sha256:38f5c80d50ec8948c49d43c234cd13e4c3f31127324e3b413bd8d92388820127
